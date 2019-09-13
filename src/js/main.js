@@ -1,5 +1,6 @@
 //= lib/jquery.js
-//= lib/slick.js
+/// = lib/slick.js
+//= lib/isotope.js
 //= lib/popper.js
 
 
